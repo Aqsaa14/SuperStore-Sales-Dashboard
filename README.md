@@ -1,5 +1,3 @@
-![Power BI Desktop 5_4_2024 7_54_39 AM](https://github.com/Aqsaa14/SuperStore-Sales-Dashboard/assets/155834667/abd9679b-947a-4dce-8073-4c256bbfbaa0)
-![Power BI Desktop 5_4_2024 7_54_19 AM](https://github.com/Aqsaa14/SuperStore-Sales-Dashboard/assets/155834667/61b078e3-7744-4c56-9f43-7420468de7af)
 # Superstore Sales Dashboard & Forecasting
 Welcome to the Superstore Sales Dashboard & Forecasting project repository. This project entails the development of a comprehensive Power BI dashboard designed to analyze the sales data of a fictitious superstore. Employing advanced data analysis techniques, including time series analysis, the dashboard provides robust insights, accurate sales forecasts, and interactive visualizations to facilitate informed decision-making and foster business growth.
 
@@ -19,3 +17,8 @@ Explore Insights: Explore the dashboard to extract actionable insights into sale
 
 # Contributing
 Contributions to the Superstore Sales Dashboard & Forecasting project are highly encouraged. Should you possess suggestions for enhancements or new features, please initiate an issue or submit a pull request.
+
+# Sales Dashboard
+![Power BI Desktop 5_4_2024 7_54_19 AM](https://github.com/Aqsaa14/SuperStore-Sales-Dashboard/assets/155834667/61b078e3-7744-4c56-9f43-7420468de7af)
+# Forecasting 
+![Power BI Desktop 5_4_2024 7_54_39 AM](https://github.com/Aqsaa14/SuperStore-Sales-Dashboard/assets/155834667/abd9679b-947a-4dce-8073-4c256bbfbaa0)
